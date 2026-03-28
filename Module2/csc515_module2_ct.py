@@ -1,6 +1,6 @@
 '''
 MS - Artificial Intelligence and Machine Learning
-Course: CSC515 - Foundations of Computer Vision
+Course: CSC515: Foundations of Computer Vision
 Module 2: Critical Thinking Assignment
 Professor: Dr. Dong Nguyen
 Created by Mukul Mondal
@@ -51,8 +51,8 @@ def downloadImageWithCurrentCookies(uurl: str, save_file: str) -> bool:
 
     # get Cookies under: https://csuglobal.instructure.com
     cookies3 = {
-        "canvas_session": "-3bEbL5Rmk34St...", # enter full cookie value
-        "log_session_id": "62b6472d3b6980c..."  # enter full cookie value
+        "canvas_session": "-3bEbL5Rmk34StOwpz5-..",   # enter full cookie value
+        "log_session_id": "62b6472d3b6980cd8af..."         # enter full cookie value
     }
     ret: bool = False
     try:
@@ -161,9 +161,7 @@ if __name__ == "__main__":
     colorSplit(imgFile)
 
 '''
-Environment Setup, Activation and pip Installs
-C:\Projs\Python>python -m venv csc515 
-C:\Projs\Python>cd csc515
+Environment Activation and pip Installs
 C:\Projs\Python\csc515>Scripts\activate
 (csc515) C:\Projs\Python\csc515>python.exe -m pip install --upgrade pip
 (csc515) C:\Projs\Python\csc515>pip install numpy
