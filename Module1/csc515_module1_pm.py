@@ -1,6 +1,6 @@
 '''
 MS - Artificial Intelligence and Machine Learning
-Course: CSC515: Foundations of Artificial Intelligence
+Course: CSC515 - Foundations of Computer Vision
 Module 1: Portfolio Milestone Assignment
 Professor: Dr. Dong Nguyen
 Created by Mukul Mondal
