@@ -155,7 +155,7 @@ if __name__ == "__main__":
     print("Course: CSC515 - Foundations of Computer Vision")
     print("Module 4: Critical Thinking Assignment")
 
-    imgFile = r"C:\Projs\Python\csc515\dataFiles/Mod4CT2.jpg"  # input photo file
+    imgFile = r"C:\Projs\Python\csc515\dataFiles/Mod4CT1.jpg"  # input photo file
 
     # Load the input image
     originalImage = cv2.imread(imgFile)
